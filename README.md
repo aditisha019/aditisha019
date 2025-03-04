@@ -1,8 +1,8 @@
-### Hi, I'm Aditi 
+### Hi, I'm Aditi 👾
 
-🪷 Third-year Information Technology Student at VIT Vellore
-
+🪷 Third-year Information Technology Student at VIT Vellore. 
 🥭 A passionate developer who spends more time debugging than actually writing code. 😆
+
 
 💻 Tech Stack: Java | Python | JavaScript | AWS | SQL | Git
 
