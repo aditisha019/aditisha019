@@ -1,6 +1,6 @@
 ### Hi, I'm Aditi 👾
 
-🪷 Third-year Information Technology Student at VIT Vellore. 
+🪷 Final-year Information Technology Student at VIT Vellore. 
 🥭 A passionate developer who spends more time debugging than actually writing code. 😆
 
 
